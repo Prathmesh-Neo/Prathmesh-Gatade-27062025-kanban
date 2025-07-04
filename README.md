@@ -29,7 +29,6 @@ A full-featured Kanban Board application built using **React**, **Redux**, **Mat
 - Login page with CAPTCHA
 - Dashboard with drag-and-drop Kanban Board
 - Task CRUD modals
-- Delete zone visible during drag
 
 ## 🛠️ Installation & Running Locally
 
